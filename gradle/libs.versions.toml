@@ -1,0 +1,50 @@
+[versions]
+agp = "8.4.0"
+kotlin = "1.9.0"
+coreKtx = "1.13.1"
+junit = "4.13.2"
+junitVersion = "1.1.5"
+espressoCore = "3.5.1"
+appcompat = "1.6.1"
+material = "1.12.0"
+constraintlayout = "2.1.4"
+lifecycleLivedataKtx = "2.7.0"
+lifecycleViewmodelKtx = "2.7.0"
+navigationFragmentKtx = "2.7.7"
+navigationUiKtx = "2.7.7"
+chaquopy = "15.0.1"
+mediapipe_task = "0.10.0"
+camerax_version = "1.1.0-beta01"
+tensorflowLite = "2.9.0"
+tensorflowLiteSupport = "0.4.2"
+tensorflowLiteTaskVision = "0.3.0"
+
+[libraries]
+androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+androidx-lifecycle-livedata-ktx = { group = "androidx.lifecycle", name = "lifecycle-livedata-ktx", version.ref = "lifecycleLivedataKtx" }
+androidx-lifecycle-viewmodel-ktx = { group = "androidx.lifecycle", name = "lifecycle-viewmodel-ktx", version.ref = "lifecycleViewmodelKtx" }
+androidx-navigation-fragment-ktx = { group = "androidx.navigation", name = "navigation-fragment-ktx", version.ref = "navigationFragmentKtx" }
+androidx-navigation-ui-ktx = { group = "androidx.navigation", name = "navigation-ui-ktx", version.ref = "navigationUiKtx" }
+androidx-camera-core = {group = "androidx.camera", name = "camera-core", version.ref = "camerax_version"}
+androidx-camera-camera2 = {group = "androidx.camera", name = "camera-camera2", version.ref = "camerax_version"}
+androidx-camera-lifecycle = {group = "androidx.camera", name = "camera-lifecycle", version.ref = "camerax_version"}
+androidx-camera-video = {group = "androidx.camera", name = "camera-video", version.ref = "camerax_version"}
+androidx-camera-view = {group = "androidx.camera", name = "camera-view", version.ref = "camerax_version"}
+androidx-camera-extensions = {group = "androidx.camera", name = "camera-extensions", version.ref = "camerax_version"}
+google-mediapipe = { group = "com.google.mediapipe", name = "tasks-vision", version.ref = "mediapipe_task" }
+tensorflow-lite = { module = "org.tensorflow:tensorflow-lite", version.ref = "tensorflowLite" }
+tensorflow-lite-gpu = { module = "org.tensorflow:tensorflow-lite-gpu", version.ref = "tensorflowLite" }
+tensorflow-lite-select-tf-ops = { module = "org.tensorflow:tensorflow-lite-select-tf-ops", version.ref = "tensorflowLite" }
+tensorflow-lite-support = { module = "org.tensorflow:tensorflow-lite-support", version.ref = "tensorflowLiteSupport" }
+tensorflow-lite-task-vision = { module = "org.tensorflow:tensorflow-lite-task-vision", version.ref = "tensorflowLiteTaskVision" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+jetbrains-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+chaquopy-python-android = { id = "com.chaquo.python", version.ref = "chaquopy"}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VB3ONCE</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_camera">Traducción</string>
+    <string name="take_photo">Foto</string>
+    <string name="start_capture">Iniciar Traducción</string>
+    <string name="stop_capture">Fin Video</string>
+    <string name="translation_video">Traduciendo…</string>
+</resources>
