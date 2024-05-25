@@ -1,4 +1,5 @@
 # ONCE-Scalian
+<h2>Aplicación premiada 🏆 en el reto ONCE / Scalian celebrado en 42 Barcelona en Mayo de 2024</h2>
 
 Bienvenidos, somos Vim Brothers y este es nuestro equipo:
 
