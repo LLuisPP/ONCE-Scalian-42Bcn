@@ -72,9 +72,9 @@ Especificaciones generales:
   </tr>
   <tr>
     <td align="center"><img  width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin"/>
-<br>Kotlin<br><br><br><img  width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="swift"/><br>Swift
+<br>Kotlin<br><br><br><img  width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="swift"/><br>Swift
     </td>
-    <td align="center" width="250"><img width="200" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/4d2cc0e5-3fd5-4083-a7ee-60e46cdc8432" /></td>
+    <td align="center" width="250"><img width="200" src="https://github.com/user-attachments/assets/d9edd8ff-2a59-4a39-94b5-7f03a079ddc4" /></td>
     <td align="center" width="120"><h4>Letras</h4> • "a" <br> • "b" <br> • "c" <br> • "i" <br> • "n" <br> <h4>Palabras</h4> • "hola" <br> • "bien" <br> </td>
     <td width="330">
       • matplotlib==3.5.1<br>
