@@ -37,7 +37,7 @@ Bienvenidos, somos Vim Brothers y este es nuestro equipo:
 
 Gracias por traernos un proyecto que tiene como objeto último, mejorar el día a día y facilitar la comunicación.<br>
 
-<div align="center"><img width="240" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/e814233d-dd99-44ac-80c4-16aeac7aca87"/> <img width="240" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/c061234e-0b92-4a09-9a0e-003586cbc3f5"/>  <img width="250" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/dc399bde-c392-40c8-a026-57117bdc05a0"/></div><br>
+<div align="center"><img width="240" src="https://github.com/user-attachments/assets/98c7b6ef-d3a8-425e-83c7-f118db56754e"/> <img width="240" src="https://github.com/user-attachments/assets/bb433e93-cada-41c7-a2c1-401feb81f2b6"/>  <img width="250" src="https://github.com/user-attachments/assets/67bf18b2-63f3-45ef-8032-f6fb32d3e4f0"/></div><br>
 
 <br>
 
