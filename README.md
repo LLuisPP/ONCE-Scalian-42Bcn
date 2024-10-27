@@ -14,9 +14,9 @@ Bienvenidos, somos Vim Brothers y este es nuestro equipo:
     <td align="center" width="500">Luis Prieto</td>
   </tr>
   <tr>
-    <td align="center" width="500"><img width="150" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/f25ff86a-8276-449f-a88a-b1c6b74655f3" /></td>
-    <td align="center" width="500"><img width="150" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/1cf184e2-9afa-4f09-beef-9b5ee37c8853" /></td>
-    <td align="center" width="500"><img width="150" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/18bf3bbf-ec5f-489b-82e6-ca878ecdde1d" /></td>
+    <td align="center" width="500"><img width="150" src="https://github.com/user-attachments/assets/5ff148a9-7909-45e2-94fd-110c7968a802" /></td>
+    <td align="center" width="500"><img width="150" src="https://github.com/user-attachments/assets/aef7d98f-e429-4489-aae0-7e2d93fdcfa1" /></td>
+    <td align="center" width="500"><img width="150" src="https://github.com/user-attachments/assets/e0d1cf9d-386d-4d8a-ba7d-1ed5113b0adc" /></td>
 
   </tr>
   <tr>
