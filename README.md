@@ -120,6 +120,7 @@ IDE, lenguajes y plataformas:
 
 # Investigación del modelo
 
+
 <div align="center">
 <table>
   <tr>
@@ -130,13 +131,13 @@ IDE, lenguajes y plataformas:
   </tr>
   <tr align="center">
     <td height="350" align="center">
-      <img height="180" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/0910f51e-b897-4133-bcd1-2b0eaded6316"/>
+      <img height="180" src="https://github.com/user-attachments/assets/30cd2827-dc23-452e-8d16-c5fbea34eba3"/>
     </td>
     <td>
-      <img height="200" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/df64fea2-5c72-4478-bad7-b30b4af9efd9">
+      <img height="200" src="https://github.com/user-attachments/assets/7fbe83b4-b0af-48ce-badd-982485addd06">
     </td>
     <td>
-      <img height="200" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/d4bc9dec-c463-4aaf-90d0-c358764f6f3b"/>
+      <img height="200" src="https://github.com/user-attachments/assets/7361d14a-5e2d-4b3e-9203-d6ca42374a70"/>
     </td>
   </tr>
   <tr align="center">
