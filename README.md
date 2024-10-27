@@ -173,7 +173,7 @@ IDE, lenguajes y plataformas:
     <td colspan="3" width="900" align="center"><h3>Entreno y Tokenización</h3></td>
   </tr>
     <td colspan="3" height="450" align="center">
-      <img width="350" src="https://github.com/LLuisPP/ONCE-scalian/assets/29946370/3a514964-4c74-46fb-91f8-58a0e490e370">
+      <img width="350" src="https://github.com/user-attachments/assets/b910a362-0a5d-43b7-9cf8-71a205dcbad7">
     </td>
   </tr>
   <tr>
@@ -188,9 +188,9 @@ IDE, lenguajes y plataformas:
   </tr>
     <td colspan="3" align="center">
       <br>
-      <img height="200" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/5e18f992-cda1-4d5e-bfc9-d9e09e072d17">
-      <img height="200" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/c1b752f4-b976-4022-ab83-18630810334a"><br><br>
-      <img height="200" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/965219b3-a71d-4ed2-9364-1e90ccd2df74">
+      <img height="200" src="https://github.com/user-attachments/assets/f11df712-8d83-441d-b7cc-68882a4e2e7a">
+      <img height="200" src="https://github.com/user-attachments/assets/da39b971-6b09-4ccb-a0eb-81778e8df142"><br><br>
+      <img height="200" src="https://github.com/user-attachments/assets/25ee01d2-7856-48c8-9168-3ed767a8f864">
       <img height="200" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/77079842-b36e-415e-8d49-f7c90091ff5d">
       <br>
     </td>
