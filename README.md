@@ -71,7 +71,8 @@ Especificaciones generales:
     <td align="center">Requeriments</td>
   </tr>
   <tr>
-    <td align="center"><img width="80" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/e7b838ba-e98a-4041-9506-8a86133ccaa9" /><br>Kotlin<br><br><br><img width="80" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/a0fc5425-d057-4ccd-bba5-9d8d2867c86a" /><br>Swift
+    <td align="center"><img  width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin"/>
+<br>Kotlin<br><br><br><img  width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="swift"/><br>Swift
     </td>
     <td align="center" width="250"><img width="200" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/4d2cc0e5-3fd5-4083-a7ee-60e46cdc8432" /></td>
     <td align="center" width="120"><h4>Letras</h4> • "a" <br> • "b" <br> • "c" <br> • "i" <br> • "n" <br> <h4>Palabras</h4> • "hola" <br> • "bien" <br> </td>
@@ -102,10 +103,10 @@ IDE, lenguajes y plataformas:
 <br>
 <br>
 <div align="center">
-<img src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/fa9b31d9-bd23-406f-a87a-a2fb30c6af42" alt="kotlin" width="90" height="90"/>
-<img src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/e7b838ba-e98a-4041-9506-8a86133ccaa9" alt="kotlin" width="90" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="kotlin" width="90" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="kotlin" width="90" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="90" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="90" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="90" height="90"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="90" height="90"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="90" height="90"/>
 </div>
 <br>
