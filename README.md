@@ -191,7 +191,7 @@ IDE, lenguajes y plataformas:
       <img height="200" src="https://github.com/user-attachments/assets/f11df712-8d83-441d-b7cc-68882a4e2e7a">
       <img height="200" src="https://github.com/user-attachments/assets/da39b971-6b09-4ccb-a0eb-81778e8df142"><br><br>
       <img height="200" src="https://github.com/user-attachments/assets/25ee01d2-7856-48c8-9168-3ed767a8f864">
-      <img height="200" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/77079842-b36e-415e-8d49-f7c90091ff5d">
+      <img height="200" src="https://github.com/user-attachments/assets/23ec389a-5d1a-42b6-b45f-30145069e1ae">
       <br>
     </td>
   </tr>
@@ -218,11 +218,11 @@ Tras probar la app de ejemplo que google proporciona para mediapipe, se procede 
   </tr>
   <tr align="center">
     <td colspan="3" align="center">
-        <img height="300" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/aac7a78a-8b4b-4083-becc-108a63fb8c51"/>
+        <img height="300" src="https://github.com/user-attachments/assets/3e300a8c-222e-43c5-89ab-a7685758b404"/>
       <div align="center">
-        <img height="150" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/23d4cfe7-ff89-4652-846b-634aa66a3162"/>
-        <img height="150" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/5192defd-c590-409c-8545-93c6a2601ebd"/>
-        <img height="80"  src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/43cd54b3-4d85-4b32-bf06-09bc8556e0ff"/>
+        <img height="150" src="https://github.com/user-attachments/assets/5fb7682a-5c11-4176-9fc9-56e17446f980"/>
+        <img height="150" src="https://github.com/user-attachments/assets/5a51540e-fe35-4074-84a7-ffabb92774a8"/>
+        <img height="80"  src="https://github.com/user-attachments/assets/d53d2137-9cac-4979-af7b-80f328ff8b4f"/>
       </div>
     </td>
   </tr>
@@ -242,6 +242,7 @@ Tras probar la app de ejemplo que google proporciona para mediapipe, se procede 
 </table>
 </div>
 <br><br>
+
 
 # Instalación:
 
