@@ -14,9 +14,9 @@ Bienvenidos, somos Vim Brothers y este es nuestro equipo:
     <td align="center" width="500">Luis Prieto</td>
   </tr>
   <tr>
-    <td align="center" width="500"><img width="150" src="https://github.com/user-attachments/assets/5ff148a9-7909-45e2-94fd-110c7968a802" /></td>
-    <td align="center" width="500"><img width="150" src="https://github.com/user-attachments/assets/aef7d98f-e429-4489-aae0-7e2d93fdcfa1" /></td>
-    <td align="center" width="500"><img width="150" src="https://github.com/user-attachments/assets/e0d1cf9d-386d-4d8a-ba7d-1ed5113b0adc" /></td>
+    <td align="center" width="500"><a href="#"><img width="150" src="https://github.com/user-attachments/assets/5ff148a9-7909-45e2-94fd-110c7968a802" /></a></td>
+    <td align="center" width="500"><a href="#"><img width="150" src="https://github.com/user-attachments/assets/aef7d98f-e429-4489-aae0-7e2d93fdcfa1" /></a></td>
+    <td align="center" width="500"><a href="#"><img width="150" src="https://github.com/user-attachments/assets/e0d1cf9d-386d-4d8a-ba7d-1ed5113b0adc" /></a></td>
 
   </tr>
   <tr>
@@ -37,7 +37,7 @@ Bienvenidos, somos Vim Brothers y este es nuestro equipo:
 
 Gracias por traernos un proyecto que tiene como objeto último, mejorar el día a día y facilitar la comunicación.<br>
 
-<div align="center"><img width="240" src="https://github.com/user-attachments/assets/98c7b6ef-d3a8-425e-83c7-f118db56754e"/> <img width="240" src="https://github.com/user-attachments/assets/bb433e93-cada-41c7-a2c1-401feb81f2b6"/>  <img width="250" src="https://github.com/user-attachments/assets/67bf18b2-63f3-45ef-8032-f6fb32d3e4f0"/></div><br>
+<div align="center"><a href="#"><img width="240" src="https://github.com/user-attachments/assets/98c7b6ef-d3a8-425e-83c7-f118db56754e"/></a> <a href="#"><img width="240" src="https://github.com/user-attachments/assets/bb433e93-cada-41c7-a2c1-401feb81f2b6"/></a>  <a href="#"><img width="250" src="https://github.com/user-attachments/assets/67bf18b2-63f3-45ef-8032-f6fb32d3e4f0"/></a></div><br>
 
 <br>
 
@@ -71,8 +71,8 @@ Especificaciones generales:
     <td align="center">Requeriments</td>
   </tr>
   <tr>
-    <td align="center"><img  width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin"/>
-<br>Kotlin<br><br><br><img  width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="swift"/><br>Swift
+    <td align="center"><a href="#"><img  width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin"/></a>
+<br>Kotlin<br><br><br><a href="#"><img  width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="swift"/></a><br>Swift
     </td>
     <td align="center" width="250"><img width="200" src="https://github.com/user-attachments/assets/d9edd8ff-2a59-4a39-94b5-7f03a079ddc4" /></td>
     <td align="center" width="120"><h4>Letras</h4> • "a" <br> • "b" <br> • "c" <br> • "i" <br> • "n" <br> <h4>Palabras</h4> • "hola" <br> • "bien" <br> </td>
@@ -103,11 +103,11 @@ IDE, lenguajes y plataformas:
 <br>
 <br>
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="90" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="90" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="90" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="90" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="90" height="90"/>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="90" height="90"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="90" height="90"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="90" height="90"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="90" height="90"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="90" height="90"/></a>
 </div>
 <br>
 
@@ -130,13 +130,13 @@ IDE, lenguajes y plataformas:
   </tr>
   <tr align="center">
     <td height="350" align="center">
-      <img height="180" src="https://github.com/user-attachments/assets/30cd2827-dc23-452e-8d16-c5fbea34eba3"/>
+      <a href="#"><img height="180" src="https://github.com/user-attachments/assets/30cd2827-dc23-452e-8d16-c5fbea34eba3"/></a>
     </td>
     <td>
-      <img height="200" src="https://github.com/user-attachments/assets/7fbe83b4-b0af-48ce-badd-982485addd06">
+      <a href="#"><img height="200" src="https://github.com/user-attachments/assets/7fbe83b4-b0af-48ce-badd-982485addd06"></a>
     </td>
     <td>
-      <img height="200" src="https://github.com/user-attachments/assets/7361d14a-5e2d-4b3e-9203-d6ca42374a70"/>
+      <a href="#"><img height="200" src="https://github.com/user-attachments/assets/7361d14a-5e2d-4b3e-9203-d6ca42374a70"/></a>
     </td>
   </tr>
   <tr align="center">
@@ -153,12 +153,12 @@ IDE, lenguajes y plataformas:
     <td colspan="3" height="600" align="center">
       <br>
       <div align="center">
-      <img height="250" src="https://github.com/user-attachments/assets/eeb25ae1-e045-4a19-a5d1-4fa28aae67a2">
-      <img height="250" src="https://github.com/user-attachments/assets/cae3d753-2765-4695-ae2f-cd6133356a63"/>
+      <a href="#"><img height="250" src="https://github.com/user-attachments/assets/eeb25ae1-e045-4a19-a5d1-4fa28aae67a2"></a>
+      <a href="#"><img height="250" src="https://github.com/user-attachments/assets/cae3d753-2765-4695-ae2f-cd6133356a63"/></a>
       </div><br><br>
       <div align="center">
-      <img height="250" src="https://github.com/user-attachments/assets/d3769896-a193-4ca7-a7e0-263412130278">
-      <img height="250" src="https://github.com/user-attachments/assets/65ee53c3-6a35-4d3b-8360-fb0ece402e2f"/>
+      <a href="#"><img height="250" src="https://github.com/user-attachments/assets/d3769896-a193-4ca7-a7e0-263412130278"></a>
+      <a href="#"><img height="250" src="https://github.com/user-attachments/assets/65ee53c3-6a35-4d3b-8360-fb0ece402e2f"/></a>
       </div><br>  
     </td>
   </tr>
@@ -173,7 +173,7 @@ IDE, lenguajes y plataformas:
     <td colspan="3" width="900" align="center"><h3>Entreno y Tokenización</h3></td>
   </tr>
     <td colspan="3" height="450" align="center">
-      <img width="350" src="https://github.com/user-attachments/assets/b910a362-0a5d-43b7-9cf8-71a205dcbad7">
+      <a href="#"><img width="350" src="https://github.com/user-attachments/assets/b910a362-0a5d-43b7-9cf8-71a205dcbad7"></a>
     </td>
   </tr>
   <tr>
@@ -188,10 +188,10 @@ IDE, lenguajes y plataformas:
   </tr>
     <td colspan="3" align="center">
       <br>
-      <img height="200" src="https://github.com/user-attachments/assets/f11df712-8d83-441d-b7cc-68882a4e2e7a">
-      <img height="200" src="https://github.com/user-attachments/assets/da39b971-6b09-4ccb-a0eb-81778e8df142"><br><br>
-      <img height="200" src="https://github.com/user-attachments/assets/25ee01d2-7856-48c8-9168-3ed767a8f864">
-      <img height="200" src="https://github.com/user-attachments/assets/23ec389a-5d1a-42b6-b45f-30145069e1ae">
+      <a href="#"><img height="200" src="https://github.com/user-attachments/assets/f11df712-8d83-441d-b7cc-68882a4e2e7a"></a>
+      <a href="#"><img height="200" src="https://github.com/user-attachments/assets/da39b971-6b09-4ccb-a0eb-81778e8df142"></a><br><br>
+      <a href="#"><img height="200" src="https://github.com/user-attachments/assets/25ee01d2-7856-48c8-9168-3ed767a8f864"></a>
+      <a href="#"><img height="200" src="https://github.com/user-attachments/assets/23ec389a-5d1a-42b6-b45f-30145069e1ae"></a>
       <br>
     </td>
   </tr>
@@ -218,11 +218,11 @@ Tras probar la app de ejemplo que google proporciona para mediapipe, se procede 
   </tr>
   <tr align="center">
     <td colspan="3" align="center">
-        <img height="300" src="https://github.com/user-attachments/assets/3e300a8c-222e-43c5-89ab-a7685758b404"/>
+        <a href="#"><img height="300" src="https://github.com/user-attachments/assets/3e300a8c-222e-43c5-89ab-a7685758b404"/></a>
       <div align="center">
-        <img height="150" src="https://github.com/user-attachments/assets/5fb7682a-5c11-4176-9fc9-56e17446f980"/>
-        <img height="150" src="https://github.com/user-attachments/assets/5a51540e-fe35-4074-84a7-ffabb92774a8"/>
-        <img height="80"  src="https://github.com/user-attachments/assets/d53d2137-9cac-4979-af7b-80f328ff8b4f"/>
+        <a href="#"><img height="150" src="https://github.com/user-attachments/assets/5fb7682a-5c11-4176-9fc9-56e17446f980"/></a>
+        <a href="#"><img height="150" src="https://github.com/user-attachments/assets/5a51540e-fe35-4074-84a7-ffabb92774a8"/></a>
+        <a href="#"><img height="80"  src="https://github.com/user-attachments/assets/d53d2137-9cac-4979-af7b-80f328ff8b4f"/></a>
       </div>
     </td>
   </tr>
@@ -232,17 +232,16 @@ Tras probar la app de ejemplo que google proporciona para mediapipe, se procede 
   <tr>
     <td colspan="3" align="center">
       <div align="center">
-        <img height="390" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/c6f8777d-2f4c-4cf5-88c7-2fca03d475e5"/>
-        <img height="390" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/e40f7f29-3055-4d62-bf63-907cb1885d7e"/>
-        <img height="390" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/cc4934cb-d70e-4744-a272-1568fbb2c6de"/>
-        <img height="390" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/ad33c960-6b20-4874-9729-4f081d4efd06"/>
+        <a href="#"><img height="390" src="https://github.com/user-attachments/assets/ef253c78-4f65-4969-95d9-bd1dfaa21286"/></a>
+        <a href="#"><img height="390" src="https://github.com/user-attachments/assets/8a9a2cb5-2dc5-4423-b54e-db37ff274965"/></a>
+        <a href="#"><img height="390" src="https://github.com/user-attachments/assets/ce9106bf-61d2-4368-b5de-cd8171274361"/></a>
+        <a href="#"><img height="390" src="https://github.com/user-attachments/assets/597f2756-e624-44f3-8a6a-1add58d87068"/></a>
       </div>
     </td>
   </tr>
 </table>
 </div>
 <br><br>
-
 
 # Instalación:
 
